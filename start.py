@@ -3,4 +3,4 @@ def palindrome(s):
         return 'Palindrome'
     else:
         return 'Not'
-print(palindrome('ALAYALAM'))
+print(palindrome('MALAYALAM'))
